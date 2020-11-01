@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wReaAr8uv6xTD2mK1ow8sO8SG0BCzszYJQlUbsJM/bZ4ND+Xs10P3QYnP/UncV6bqCZNe2Erv1rIRs/BY+XEnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Middleware\\source\\repos\\NetCoreCeutec\\Datos\\Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Middleware\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Middleware\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

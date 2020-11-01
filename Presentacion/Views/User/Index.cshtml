@@ -1,0 +1,11 @@
+﻿@model List<UserInfoModel>
+
+@foreach (var user in Model)
+{
+    <div class="row">
+
+        <div class="col col-xs-12">
+            @user.Id @user.Username (@user.Email)
+        </div>
+    </div>
+}

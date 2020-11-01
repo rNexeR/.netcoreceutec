@@ -1,0 +1,12 @@
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\bin\Debug\netstandard2.0\Aplicativa.deps.json
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\bin\Debug\netstandard2.0\Aplicativa.dll
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\bin\Debug\netstandard2.0\Aplicativa.pdb
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.csprojAssemblyReference.cache
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.AssemblyInfoInputs.cache
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.AssemblyInfo.cs
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.csproj.CoreCompileInputs.cache
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.csproj.CopyComplete
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.dll
+C:\Users\Middleware\source\repos\NetCoreCeutec\Aplicativa\obj\Debug\netstandard2.0\Aplicativa.pdb

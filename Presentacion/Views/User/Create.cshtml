@@ -1,0 +1,26 @@
+﻿@model UserInfoModel
+
+    <div class="row">
+
+        <form asp-controller="User" asp-action="Create" method="post">
+            <div class="col col-xs-12">
+                <label>@Html.LabelFor(model => model.Username)</label>
+                <div>
+                    @Html.TextBoxFor(model => model.Username)
+                    @Html.ValidationMessageFor(model => model.Username)
+                </div>
+
+            </div>
+
+            <div class="col col-xs-12">
+                <label>@Html.LabelFor(model => model.Email)</label>
+                <div class="">
+                    @Html.TextBoxFor(model => model.Email)
+                    @Html.ValidationMessageFor(model => model.Email)
+                </div>
+
+            </div>
+
+            <button type="submit" class="btn btn-info">Create</button>
+        </form>
+    </div>

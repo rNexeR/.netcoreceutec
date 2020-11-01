@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozeJPC5tK2zbXeQUVfx9kV/yW2OTLj15rhOvuUrhq8B2KGXXYsVsd6i3gdLZq5gAf/HE8UJxqJ8HBqRwKn8rZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Middleware\\source\\repos\\NetCoreCeutec\\Aplicativa\\Aplicativa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Middleware\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Middleware\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
